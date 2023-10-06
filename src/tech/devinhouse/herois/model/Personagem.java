@@ -1,8 +1,5 @@
 package tech.devinhouse.herois.model;
 
-import lombok.Getter;
-
-import java.util.Comparator;
 import java.util.Objects;
 
 public abstract class Personagem implements Comparable<Personagem> {
